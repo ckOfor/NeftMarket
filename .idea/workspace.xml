@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="880e853b-94a8-4161-84dc-e51b7da1d01d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b3850c8eb26f7d1e160c089415e232553e84e2f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/3/b3850c8eb26f7d1e160c089415e232553e84e2f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/profile.clar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/profile.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/escrow.clar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/escrow.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clarinet.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Clarinet.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deployments/default.simnet-plan.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/deployments/default.simnet-plan.yaml" afterDir="false" />
     </list>
@@ -62,7 +60,7 @@
       <updated>1726484132792</updated>
       <workItem from="1726484133855" duration="869000" />
       <workItem from="1726651153774" duration="1000" />
-      <workItem from="1726845226559" duration="7197000" />
+      <workItem from="1726845226559" duration="7522000" />
     </task>
     <servers />
   </component>

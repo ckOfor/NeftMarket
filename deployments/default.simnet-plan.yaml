@@ -55,6 +55,11 @@ plan:
             path: contracts/auction.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: escrow
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/escrow.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: nft
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/nft.clar
