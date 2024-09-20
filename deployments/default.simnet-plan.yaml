@@ -60,6 +60,11 @@ plan:
             path: contracts/nft.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: profile
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/profile.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: royalty
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/royalty.clar
